@@ -66,7 +66,7 @@ function Cart() {
               title="Empty Cart"
             />{" "}
           </button>
-          <h3 className="your-products">Your Products</h3>
+          <h3 className="your-products">Your Projhvjhjhducts</h3>
         </div>
       )}
 
